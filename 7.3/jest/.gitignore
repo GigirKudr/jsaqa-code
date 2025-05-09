@@ -12,3 +12,10 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
